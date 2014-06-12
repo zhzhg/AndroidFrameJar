@@ -2,13 +2,15 @@ package com.frame.utils;
 
 import android.util.Log;
 
-/**
- * 日志打印类
- * 
- * @author zhangzg
- * 
- */
 
+/**
+ * @Title: zLog.java
+ * @Package com.frame.utils
+ * @Description: 日志打印类
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:44:44
+ * @version 1.0
+ */
 public class zLog {
 	// 是否打印日志־
 	public static boolean isDebug = false;

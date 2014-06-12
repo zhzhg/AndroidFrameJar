@@ -6,14 +6,14 @@ import android.net.Uri;
 import android.os.Build;
 import android.provider.MediaStore;
 
-/**   
- * @Title: PhonePhotoUtils.java 
- * @Package com.zm.utils 
- * @Description: 获取手机相册 
- * @author zhzhg   
- * @version V1.0   
+/**
+ * @Title: zPhonePhotoUtils.java
+ * @Package com.frame.utils
+ * @Description: 获取手机相册路径
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:50:27
+ * @version 1.0
  */
-
 public class zPhonePhotoUtils {
 	
 	public static String getPath(Context context,Uri uri) {

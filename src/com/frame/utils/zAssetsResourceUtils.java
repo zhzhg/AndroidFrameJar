@@ -4,14 +4,14 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import android.content.Context;
 
-
-/**   
- * @Title: zAssetsResourceUtils.java 
+/**
+ * @Title: zAssetsResourceUtils.java
+ * @Package com.frame.utils
  * @Description: assets工具类
- * @author zhzhg
- * @version V1.0   
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:42:11
+ * @version 1.0
  */
-
 public class zAssetsResourceUtils {
 
 	public static String geFileFromAssets(Context context,String fileName) {

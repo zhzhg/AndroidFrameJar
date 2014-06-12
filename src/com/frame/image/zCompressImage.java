@@ -7,13 +7,14 @@ import java.io.InputStream;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-/**   
- * @Title: CompressImage.java 
+/**
+ * @Title: zCompressImage.java
+ * @Package com.frame.image
  * @Description: 图片压缩类
- * @author zhzhg  
- * @version V1.0   
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:53:31
+ * @version 1.0
  */
-
 public class zCompressImage {
 
 	/**

@@ -5,10 +5,12 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 
 /**
- * 网络工具类，主要对当前设备的网络状态和类型进行判断
- * 
- * @author zhangzg
- * 
+ * @Title: zNetUtils.java
+ * @Package com.frame.utils
+ * @Description: 网络工具类，主要对当前设备的网络状态和类型进行判断
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:47:52
+ * @version 1.0
  */
 public class zNetUtils {
 	public static final int TYPE_MOBILE_CMNET = 1;

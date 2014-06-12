@@ -9,12 +9,13 @@ import java.util.Date;
 import android.widget.SimpleAdapter;
 
 /**
- * 时间工具类
- * 
- * @author zhangzg
- * 
+ * @Title: zTimeUtils.java
+ * @Package com.frame.utils
+ * @Description: 时间工具类
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:52:33
+ * @version 1.0
  */
-
 public class zTimeUtils {
 
 	/**

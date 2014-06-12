@@ -16,13 +16,15 @@ import android.telephony.CellLocation;
 import android.telephony.TelephonyManager;
 import android.util.DisplayMetrics;
 
-/**
- * 获取手机系统、SIM卡等相关信息工具类
- * 
- * @author zhangzg
- * 
- */
 
+/**
+ * @Title: zSysInfoUtils.java
+ * @Package com.frame.utils
+ * @Description: 获取手机系统、SIM卡等相关信息工具类
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:52:16
+ * @version 1.0
+ */
 public class zSysInfoUtils {
 	private static TelephonyManager telephonyManager = null;// 电话服务
 

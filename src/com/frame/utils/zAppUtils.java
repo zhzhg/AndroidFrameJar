@@ -10,15 +10,14 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 
-
-/**   
- * @Title: AppUtils.java 
- * @Package com.cary.app 
+/**
+ * @Title: zAppUtils.java
+ * @Package com.frame.utils
  * @Description: 应用程序的工具类
- * @author zhzhg 
- * @version V1.0   
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:41:43
+ * @version 1.0
  */
-
 public class zAppUtils {
 
 	/**

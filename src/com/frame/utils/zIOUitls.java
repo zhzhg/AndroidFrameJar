@@ -17,8 +17,12 @@ import android.graphics.BitmapFactory.Options;
 import android.text.ClipboardManager;
 
 /**
- * 文件工具类
- * @author chenzongxiang
+ * @Title: zIOUitls.java
+ * @Package com.frame.utils
+ * @Description: 文件读写工具类
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:43:30
+ * @version 1.0
  */
 public class zIOUitls {
 

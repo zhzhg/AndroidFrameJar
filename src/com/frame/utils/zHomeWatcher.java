@@ -6,10 +6,12 @@ import android.content.Intent;
 import android.content.IntentFilter;
 
 /**
- * Home键监听封装
- * 
- * @author zhzhg
- * 
+ * @Title: zHomeWatcher.java
+ * @Package com.frame.utils
+ * @Description: Home键监听封装
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:43:06
+ * @version 1.0
  */
 public class zHomeWatcher {
 

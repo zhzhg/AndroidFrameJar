@@ -4,10 +4,12 @@ import android.content.Context;
 import android.widget.Toast;
 
 /**
- * Toast统一管理类
- * 
- * @author zhzhg
- * 
+ * @Title: zToast.java
+ * @Package com.frame.utils
+ * @Description: Toast统一管理类
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:52:49
+ * @version 1.0
  */
 public class zToast {
 	// Toast

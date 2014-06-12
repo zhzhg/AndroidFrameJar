@@ -4,16 +4,14 @@ import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.InputStreamReader;
 
-
-/**   
- * @Title: ShellUtils.java 
- * @Package com.cary.shell 
+/**
+ * @Title: zShellUtils.java
+ * @Package com.frame.utils
  * @Description: linux命令行工具类
- * @author cary   
- * @date 2013年10月15日 上午9:26:14 
- * @version V1.0   
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:51:17
+ * @version 1.0
  */
-
 public class zShellUtils {
 	
 	public static final String COMMAND_SU       = "su";

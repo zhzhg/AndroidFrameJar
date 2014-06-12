@@ -11,13 +11,14 @@ import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
-/**   
- * @Title: ImageUtils.java 
+/**
+ * @Title: zImageUtils.java
+ * @Package com.frame.image
  * @Description: 图片转换类
- * @author zhzhg  
- * @version V1.0   
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:53:40
+ * @version 1.0
  */
-
 public class zImageUtils {
 	
 	public static byte[] bitmapToBytes(Bitmap bm) {

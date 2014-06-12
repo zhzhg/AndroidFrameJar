@@ -4,12 +4,13 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 /**
- * SharedPreferences工具类
- * 
- * @author zhangzg
- * 
+ * @Title: zShareFileUtils.java
+ * @Package com.frame.utils
+ * @Description: SharedPreferences工具类
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:50:49
+ * @version 1.0
  */
-
 public class zShareFileUtils {
 
 	public SharedPreferences mPreference = null;// 共享文件
@@ -23,6 +24,7 @@ public class zShareFileUtils {
 	 * @param mode
 	 *            操作模式
 	 */
+
 	public void initSharePre(Context context, String fileName, int mode) {
 		mPreference = context.getSharedPreferences(fileName, mode);
 	}

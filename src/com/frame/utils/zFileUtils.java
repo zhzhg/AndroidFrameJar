@@ -13,11 +13,13 @@ import java.io.OutputStream;
 import android.util.Log;
 
 /**
+ * @Title: zFileUtils.java
+ * @Package com.frame.utils
  * @Description: 文件工具类
- * @author  zhzhg
- * @version V1.0
+ * @author Kelvin
+ * @date: 2014年6月12日 下午2:42:24
+ * @version 1.0
  */
-
 public class zFileUtils {
 
 	/**
