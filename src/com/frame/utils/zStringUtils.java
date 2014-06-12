@@ -3,61 +3,12 @@ package com.frame.utils;
 import java.net.URLEncoder;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
 /**
  * @Title: zStringUtils.java
  * @Package com.frame.utils
  * @Description: 字符串工具类
  * @author Kelvin
- * @date: 2014年6月12日 下午2:51:30
- * @version 1.0
- */
-/**
- * @Title: zStringUtils.java
- * @Package com.frame.utils
- * @Description: 
- * @author Kelvin
  * @date: 2014年6月12日 下午2:52:00
- * @version 1.0
- */
-/**
- * @Title: zStringUtils.java
- * @Package com.frame.utils
- * @Description: 
- * @author Kelvin
- * @date: 2014年6月12日 下午2:52:03
- * @version 1.0
- */
-/**
- * @Title: zStringUtils.java
- * @Package com.frame.utils
- * @Description: 
- * @author Kelvin
- * @date: 2014年6月12日 下午2:52:04
- * @version 1.0
- */
-/**
- * @Title: zStringUtils.java
- * @Package com.frame.utils
- * @Description: 
- * @author Kelvin
- * @date: 2014年6月12日 下午2:52:04
- * @version 1.0
- */
-/**
- * @Title: zStringUtils.java
- * @Package com.frame.utils
- * @Description: 
- * @author Kelvin
- * @date: 2014年6月12日 下午2:52:05
- * @version 1.0
- */
-/**
- * @Title: zStringUtils.java
- * @Package com.frame.utils
- * @Description:
- * @author Kelvin
- * @date: 2014年6月12日 下午2:52:06
  * @version 1.0
  */
 public class zStringUtils {
