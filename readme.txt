@@ -14,6 +14,10 @@
    12、zSysInfoUtils.java 获取手机系统、SIM卡等相关信息工具类
    13、zTimeUtils.java 时间工具类
    14、zToast.java Toast统一管理类
+   15、zStrToMd5Utils.java 字符串Md5加密工具类
+   16、zViewBox.java findViewById工具类，使用方式：定义内部类PageViewList，pageViewaList = new PageViewList();zViewBox.viewBox(this, pageViewaList);要求：声明对象与ID名相同。
+   17、zPhoneNumberUtils.java 手机号判断工具类，可以修改相应的正则表达式，完成对手机号的匹配。
+   18、zEmailUtils 判断邮箱格式是否正确
    
    com.frame.json：
    1、zBaseParse.java 实体Bean实现该接口，进行使用zJsonUtils累进行JSON数据解析
